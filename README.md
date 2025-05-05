@@ -1,0 +1,59 @@
+# 📊 Dashboard de Pedidos – Café da Lu ☕️
+
+Este projeto é um **mini dashboard de controle de pedidos** para uma cafeteria fictícia, o *Café da Lu*. Ele simula um sistema de acompanhamento de pedidos, com dados dinâmicos, contadores e filtros visuais.
+
+---
+
+## Funcionalidades
+
+✅ Exibe um painel com:
+- Total de pedidos do dia  
+- Receita total gerada  
+- Produto mais pedido  
+
+✅ Lista interativa de pedidos:  
+- Filtro por status: `em preparo`, `pronto`, `entregue`  
+- Contador automático de pedidos filtrados  
+- Cores visuais para cada status  
+- Destaque no botão de filtro ativo  
+- Cards com efeito hover
+
+---
+
+##  Tecnologias utilizadas
+
+- **HTML5** – estrutura da página  
+- **CSS3** – estilização com responsividade, hover e cores dinâmicas  
+- **JavaScript (puro)** – manipulação de DOM, lógica de filtros, contagem e atualização dinâmica  
+- **CodePen** – para desenvolvimento e prototipagem rápida  
+
+---
+
+## O que eu aprendi com este projeto
+
+- Manipular arrays de objetos com `.filter()`, `.reduce()` e `.forEach()`  
+- Criar elementos HTML dinamicamente com JavaScript  
+- Atualizar o DOM em tempo real com base em ações do usuário  
+- Criar filtros funcionais com `data-*` attributes  
+- Aplicar boas práticas de organização visual e estrutura de código  
+- Pensar como uma dev real de produto: entregando valor visual + funcional
+
+---
+
+## Visual
+
+![Dashboard do Café da Lu](https://res.cloudinary.com/dnkqvi852/image/upload/v1746220400/Captura_de_Tela_2025-05-02_%C3%A0s_18.13.04_wuo7nm.png)
+
+---
+
+##  Acesse o projeto
+
+📌 [Link: (https://luizarmota.github.io/dashboard-cafe/)]
+
+---
+
+##  Autora
+
+Feito por **Luíza Mota**, desenvolvedora em formação com foco em Front-End.  
+
+---
