@@ -40,12 +40,6 @@ Este projeto é um **mini dashboard de controle de pedidos** para uma cafeteria 
 
 ---
 
-## Visual
-
-![Dashboard do Café da Lu](https://res.cloudinary.com/dnkqvi852/image/upload/v1746220400/Captura_de_Tela_2025-05-02_%C3%A0s_18.13.04_wuo7nm.png)
-
----
-
 ##  Acesse o projeto
 
 📌 [Link: (https://luizarmota.github.io/dashboard-cafe/)]
